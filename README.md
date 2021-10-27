@@ -5,6 +5,7 @@ Clone or download the repo
 Make sure to have npm installed
 
 `cd ChainAlysis`
+
 `npm install`
 
 
