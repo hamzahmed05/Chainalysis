@@ -1,4 +1,4 @@
-#Questionnaire
+
 1. Are there any sub-optimal choices( or short cuts taken due to limited time ) in your implementation?
       **Yes, when using the Blockchain API to retreive the prices, I simply returned the first order set of prices from the object that contains all orders.** 
 
@@ -14,7 +14,7 @@
     
   
   
-4. What are some other enhancements you would have made, if you had more time to do this implementation
+4. What are some other enhancements you would have made, if you had more time to do this implementation?
     **other than the stated points mentioned, I would enhance the UX and UI elements**
     
  
