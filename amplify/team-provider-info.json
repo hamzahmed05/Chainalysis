@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chainalysis-dev-143421-authRole",
+      "UnauthRoleArn": "arn:aws:iam::625388816431:role/amplify-chainalysis-dev-143421-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::625388816431:role/amplify-chainalysis-dev-143421-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-chainalysis-dev-143421-deployment",
+      "UnauthRoleName": "amplify-chainalysis-dev-143421-unauthRole",
+      "StackName": "amplify-chainalysis-dev-143421",
+      "StackId": "arn:aws:cloudformation:eu-central-1:625388816431:stack/amplify-chainalysis-dev-143421/ba291da0-642f-11ec-bd7a-02c6705ee94c",
+      "AmplifyAppId": "d3pnsizzci79du"
+    },
+    "categories": {
+      "auth": {
+        "undefined": {}
+      }
+    }
+  }
+}

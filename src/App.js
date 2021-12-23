@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import logo from './Chainalysis.jpeg';
 import './App.css';
-
+import Amplify, {API} from 'aws-amplify';
 
 
 
@@ -10,6 +10,7 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = { BlockChainPayLoad: [], CoinbasePayLoad: {}};
+    API.get("myLamAPI", "theAPI", {})
   }
   
 

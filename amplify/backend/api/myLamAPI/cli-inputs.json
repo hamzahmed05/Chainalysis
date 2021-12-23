@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "paths": {
+    "/theAPI": {
+      "name": "/theAPI",
+      "lambdaFunction": "myLamAPIfunc",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create"
+        ]
+      }
+    }
+  }
+}
